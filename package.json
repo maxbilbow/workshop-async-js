@@ -1,0 +1,23 @@
+{
+  "name": "workshop-async-js",
+  "version": "1.0.0-rc.",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:maxbilbow/workshop-async-js.git"
+  },
+  "author": "Max Bilbow",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/lodash": "^4.14.172",
+    "@types/q": "^1.5.5",
+    "lodash": "^4.17.21",
+    "q": "^1.5.1",
+    "ts-node": "^10.1.0",
+    "typescript": "^4.3.5"
+  }
+}
